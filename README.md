@@ -7,4 +7,8 @@ To simply run this program (python3.7 and related packages required):
 
 `python recommend.py -source=local -inter=yes`
 
+or
+
+`python3 recommend.py -source=local -inter=yes`
+
 One thing that needs attention is that the patch of LOL is always updating, check https://developer.riotgames.com/docs/lol to get the latest version of dragontail-xxx and replace the ones in this repo.
